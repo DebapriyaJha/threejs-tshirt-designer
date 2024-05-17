@@ -13,6 +13,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chevrotain/cst-dts-gen": "^11.0.3",
+    "@chevrotain/gast": "^11.0.3",
+    "@chevrotain/utils": "^11.0.3",
+    "@mediapipe/tasks-vision": "^0.10.14",
     "@react-three/drei": "^9.79.3",
     "@react-three/fiber": "^8.13.5",
     "framer-motion": "^10.13.0",
