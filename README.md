@@ -57,7 +57,7 @@
 
 ```bash
   npm run dev
-    ```
+```
 
 <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><b>Contributing
 
