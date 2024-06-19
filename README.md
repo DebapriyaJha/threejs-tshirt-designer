@@ -1,7 +1,3 @@
-<center>
-
-![Tshirt Designer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevfolio.co%2Fprojects%2Ftshirt-customization-using-d-website-86f7&psig=AOvVaw3fIkNt90Eg1wfSLuUZsAYZ&ust=1718871562583000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDZ2-Kd54YDFQAAAAAdAAAAABAJ)
-</center>
 # <p>T-Shirt Designer</p>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Rocket" width="40" height="40" />Project Overview</h3>
 <p style="font-family:var(--ff-philosopher);">
