@@ -1,45 +1,73 @@
-# **React Three.js T-Shirt Designer**
-This project is a React application that allows users to design their own t-shirts by picking colors, uploading logos, and providing real-time preview.
+# <p>T-Shirt Designer</p>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Rocket" width="40" height="40" />Project Overview</h3>
+<p style="font-family:var(--ff-philosopher);">
+ It is a project based on React that allows users to design their own creative t-shirts by selecting colors, uploading logos, designs and providing real-time preview. It leverages the power of React.js and Three.js to create an interactive 3D environment where users can customize their t-shirts</p>
 
-## **Table of Contents**
-- **React Three.js T-Shirt Designer**
-- **Introduction**
-- **Features**
-- **Installation**
-- **Usage**
-- **Dependencies**
+<p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="40" height="40" />Tech Stack</p>
+<center><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"></a></center>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=black"></a></center>
 
-## **Introduction**
-The React Three.js T-Shirt Designer is a web application that provides a user-friendly interface for designing custom t-shirts. It leverages the power of React.js and Three.js to create an interactive 3D environment where users can customize their t-shirts with different colors and logos.
+<br><br>
 
-## **Features**
-- **Color selection**: Users can choose from a wide range of colors for the t-shirt.
-- **Logo upload**: Users can upload their own logos or choose from a library of pre-defined logos.
-- **Real-time preview**: Users can see a real-time preview of their customized t-shirt as they make changes.
+## <p style="font-size:3rem;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />Features</p>
 
-## **Installation**
-To run the React Three.js T-Shirt Designer locally, follow these steps:
 
-1. Clone the repository:
-git clone https://github.com/DebapriyaJha/threejs-tshirt-designer.git
-2. Navigate to the project directory:
-cd threejs-tshirt-designer
-3. Install the dependencies for both the client and server:
-npm run install
-4. Start both the client and server:
-npm run dev
-5. Open your web browser and visit http://localhost:3000 to access the application.
+1. **Color selection:**
+ Users can choose from a wide range of colors for the t-shirt.
 
-## **Usage**
-- **Select a t-shirt color**: Use the color picker or select from the available color options to choose the base color for your t-shirt.
-- **Upload a logo**: Click on the "Upload Logo" button to upload your own logo image file or choose from the library of pre-defined logos.
-- **Preview and adjust**: As you make changes to the t-shirt color, logo, or AI image, the real-time preview will update accordingly. Use this preview to visualize your design.
+2. **Logo upload:**
+ Users can upload their own logos or choose from a library of pre-defined logos.
+ 
+3. **Real-Time preview:**
+ Users can see a real-time preview of their customized t-shirt as they make changes.
 
-## **Dependencies**
-The React Three.js T-Shirt Designer project relies on the following dependencies:
+4. **User-Friendly Interface:**
+   Provides a simple and intuitive interface for uploading images and viewing results.
 
-- **React.js**: JavaScript library for building user interfaces.
-- **Three.js**: JavaScript 3D library for creating and displaying animated 3D computer graphics.
-- **react-color**: A collection of color pickers for React.
 
-For a complete list of dependencies and their versions, please refer to the `package.json` file in the project repository.
+<h1 align="center"><b>To run the project locally in your System<b></h1>
+
+1. _Fork the Repository:_
+   Click on the "Fork" button on the repository's GitHub page to create a copy of the repository in your GitHub account.
+
+
+2. _Clone the repository:_
+   Clone the forked repository to your local machine using the following command in your terminal.
+
+   ```bash
+   git clone https://github.com/DebapriyaJha/threejs-tshirt-designer 
+   ```
+
+3. _Open the project in VS Code:_
+   Click on the open with vs code button , to make changes to the code using the text editor. Navigate to the Project Directory.
+   
+   ```bash
+   cd threejs-tshirt-designer
+   ```
+
+4. _Install Dependencies:_
+
+  ```bash
+  npm run install
+  ```
+
+5. _Run the Application:_
+
+```bash
+  npm run dev
+    ```
+
+<p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><b>Contributing
+
+<p style="font-family:var(--ff-philosopher);font-size:2rem;">We love your input! If you have any ideas for improvements or want to report issues, please feel free to open an issue.
+
+
+<p style="font-family:var(--ff-philosopher);font-size:3rem;"><b> Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /> by starring this awesome repository!
+
+</div>
+<center>
+<h3 style="font-size:2rem;">
+If you find this project helpful, please consider giving it a star! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png" width="30" height="30"></p>
+</center>
